@@ -8,12 +8,15 @@
 body {
   background: var(--paper);
   color: var(--ink);
-  font-family: var(--font-sans), system-ui, sans-serif;
+  font-family: var(--font-isoveka), system-ui, sans-serif;
 }
 .font-display {
-  font-family: var(--font-display), serif;
+  font-family: var(--font-isoveka), serif;
 }
 
+.font-isoveka {
+  font-family: var(--font-isoveka) , serif;
+}
 /* Animation map: vẽ tuyến -> station nảy lên */
 @keyframes draw {
   from {
