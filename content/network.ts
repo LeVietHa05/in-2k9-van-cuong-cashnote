@@ -53,7 +53,7 @@ export const stations: Record<string, Station> = Object.fromEntries(
       465,
       330,
       "r",
-      "", //The data layer every lender quietly depends on.",
+      "Picture Aimee, a food-truck owner in the Philippines.", //The data layer every lender quietly depends on.",
     ),
     s(
       "predicting-crashes",
@@ -76,20 +76,20 @@ export const stations: Record<string, Station> = Object.fromEntries(
     s(
       "scaling-intro",
       "Building & Scaling fintech",
-      "",
+      "Financial Inclusion ",
       700,
       370,
       "r",
-      "", //"From first users to millions of accounts.",
+      "I used to think \"financial inclusion\" was one of those UN-report words that sounds important but doesn't actually mean anything specific. Like \"synergy.\" ", //"From first users to millions of accounts.",
     ),
     s(
       "part-they-dont-tell",
       "The part they don't tell you",
-      "",
+      "The Part Fintech Companies Don't Put in Their Pitch Decks ",
       700,
       455,
       "r",
-      "", //"The unglamorous side of building a fintech.",
+      "So far this series has been kind of a highlight reel. M-Pesa, UPI, Pix, Vietnam's Mobile Money — all genuinely impressive stories about hundreds of millions of people getting a financial account for the first time in under two decades.", //"The unglamorous side of building a fintech.",
     ),
     s(
       "fintech-winter",
@@ -103,11 +103,11 @@ export const stations: Record<string, Station> = Object.fromEntries(
     s(
       "policy-future",
       "Policy & Future",
-      "",
+      "Policy and Future of Fintech: CBDCs, Digital IDs, and Who Gets Left Out ",
       380,
       660,
       "l",
-      "", // "Regulation as a product constraint.",
+      "This series kicked off with one number: 1.3 billion adults still outside the financial system, most of them already holding a phone.", // "Regulation as a product constraint.",
     ),
     s(
       "stablecoins",
